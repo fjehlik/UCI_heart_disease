@@ -8,6 +8,7 @@ Created on Wed Apr 17 09:48:13 2019
 Kaggle heart predictor:
 https://www.kaggle.com/ronitf/heart-disease-uci
 
+This project predicts heart disease from features of historical hospital records.  
 
 This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. 
 In particular, the Cleveland database is the only one that has been used by ML researchers to this date. 
